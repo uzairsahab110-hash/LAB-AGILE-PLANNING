@@ -3,7 +3,7 @@ name: USER STORY
 about: this template is for creating user stories
 title: ''
 labels: ''
-assignees: ''
+assignees: uzairsahab110-hash
 
 ---
 
@@ -20,4 +20,3 @@ assignees: ''
 Given [some context]
 When [certain action is taken]
 Then [the outcome of action is observed]
-...
